@@ -1,0 +1,76 @@
+@import '/src/app/app.component.scss';
+
+
+form {
+ @include glassForm;
+  @include d-center;
+  @include transitionThreeMiliSec(opacity);
+  padding:3rem;
+  h2{
+    font-family:$secondaryFont;
+    color:$formColor;
+    -webkit-text-stroke: 1px black;
+    font-size: 4em;
+  }
+  input {
+   @include inputForGlassForm;
+   @include size(2.5rem, 100%);
+  }
+
+  label {
+    position: relative;
+    @include size(2.5rem, 100%);
+    span {
+      cursor: pointer;
+      position: absolute;
+      font-size: 24px;
+      top: 8px;
+      right: .5em;
+      color: rgba(101, 101, 101, 0.18);
+      z-index: 999;
+    }
+    .alert{
+      top: 2.5em;
+      color: red;
+      font-family:$secondaryFont;
+      font-size: 16px;
+      display: none;
+    }
+    .show-alert{
+      display: block;
+      animation: shake .2s ease-in-out;
+    }
+  }
+  h3{
+    font-family:$secondaryFont;
+    color:$formColor;
+    font-size: 24px;
+    cursor: pointer;
+    text-shadow: -1px 3px 4px #000000;
+    transition: text-shadow .3s ease-in-out;
+    &:active{
+      text-shadow: none;
+      transition: text-shadow .3s ease-in-out;
+    }
+  }
+}
+.login-hide{
+  opacity: 0;
+  @include transitionThreeMiliSec(opacity);
+}
+
+@keyframes shake {
+   0%{
+      right: 1em;
+     }
+   25%{
+     right: -1em;
+    }
+   50%{
+     right: 1em;
+    }
+   100%{
+     right: -1em;
+    }
+
+}

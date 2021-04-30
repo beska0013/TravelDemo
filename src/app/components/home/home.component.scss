@@ -1,0 +1,11 @@
+@import 'src/app/app.component.scss';
+
+section{
+  width: 100%;
+}
+.content{
+  @include size(100%,75%);
+  @media screen and(max-width: 768px){
+
+  }
+}

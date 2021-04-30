@@ -1,0 +1,138 @@
+@import 'src/app/app.component.scss';
+
+
+  .main-form{
+    overflow-y: auto;
+    overflow-x: hidden;
+    display: none;
+    opacity: 0;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+    form{
+      @include size(60%,50%);
+      @include glassForm;
+      padding: 20px;
+      @media screen and (max-width: 1140px) {
+        @include size(50%,90%);
+      }
+      @media screen and (max-width: 415px){
+        @include size(50%,100%);
+      }
+      #btn{
+        width: 100% !important;
+        margin: 10px auto 0;
+        cursor: pointer;
+        @include inputForGlassForm;
+      }
+      .room-place{
+        @include d-center;
+        flex-wrap: wrap;
+        #room-show-btn{
+          @include inputForGlassForm;
+          padding: 2px 15px;
+          cursor: pointer;
+        }
+        input{
+          margin: 5px 0;
+          display: none;
+          @media screen and (max-width: 415px) {
+            margin: 10px 0;
+          }
+        }
+        .room-image{
+          @include d-center;
+          flex-wrap: wrap;
+          img{
+            height: 100px;
+            width: 30%;
+            margin: 3px 3px;
+            object-fit: cover;
+            @media screen and (max-width: 415px) {
+              width: 100%;
+              height: 100%;
+            }
+          }
+        }
+      }
+      #hotel-img-label{
+        margin: 0 auto;
+        #hotel-btn{
+          font-size: 24px;
+          @include inputForGlassForm;
+          padding: 10px 15px;
+          cursor: pointer;
+        }
+        #hotel-img{
+          display: none;
+          @media screen and (max-width: 415px) {
+            margin: 0 0 10px;
+          }
+        }
+      }
+      .image-place{
+        display: flex;
+
+        @media screen and (max-width: 415px) {
+          display: block;
+        }
+        img{
+          height: 100%;
+          width: 50%;
+          margin: 0 0 10px;
+          object-fit: cover;
+          @media screen and (max-width: 415px) {
+            width: 100%;
+          }
+        }
+        .image-block{
+          background: red;
+          height: 100px;
+          width: 30%;
+          margin: 0 0 15px 0;
+        }
+      }
+      label{
+        @include d-center;
+        @media screen and (max-width: 968px){
+          display: block;
+          margin: auto 5px!important;
+        }
+      }
+    }
+    .info-field{
+      textarea{
+        width: 100%;
+        height: 33px;
+        @include inputForGlassForm
+      }
+    }
+    .checkbox{
+      @include d-center;
+      justify-content: space-around!important;
+      label{
+        margin: 10px;
+        font-family: $secondaryFont;
+
+      }
+    }
+    .selection{
+      display: grid;
+      grid-template-columns: repeat(2, 2fr);
+      grid-column-gap: 22px;
+      grid-row-gap: 22px;
+      @media screen and (max-width: 968px) {
+        grid-template-columns: repeat(1, 1fr);
+        grid-row-gap: 10px;
+      }
+      select{
+        @include inputForGlassForm;
+      }
+      input{
+        @include inputForGlassForm;
+      }
+    }
+
+  }
+

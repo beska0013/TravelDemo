@@ -1,0 +1,44 @@
+<section id="hotelScrollList">
+  <div class="form">
+  <form action="">
+    <select name="district" id="districtSelect">
+      <option value="" selected disabled hidden>District</option>
+      <option value="All">All</option>
+      <ng-container *ngFor ="let hotel of geoHotels;index as i">
+      <option value="{{hotel.district_name}}">{{hotel.district_name}}</option>
+    </ng-container>
+    </select>
+    <select name="city" id="citySelet">
+      <option value="" selected disabled hidden>City</option>
+      <option value="All">All</option>
+      <ng-container *ngFor ="let hotel of geoHotels;index as i">
+      <option value="{{hotel.city_name}}">{{hotel.city_name}}</option>
+      </ng-container>
+    </select>
+    <input type="text">
+  </form>
+  </div>
+
+  <div class="hotel-list-content" id="hotelListContent" >
+    <ng-container *ngFor ="let hotel of response.geohotels" >
+      <div class="hotel-card" (click)="getInfo($event)" id="{{hotel.id}}">
+        <img class="hotel-img" (click)="infoShow()" src="{{hotel.image}}" alt= "" >
+        <div class="hotel-card-content">
+          <div class="hotel-card-header">
+            <h4>{{hotel.hotel_name}}</h4>
+            <div class="address">
+            <p>Address :</p>
+              <p>{{hotel.city_name}}</p>
+            </div>
+          </div>
+          <div class="raiting">
+            <span>{{hotel.stars}}<i class='bx bxs-star'></i></span>
+          </div>
+          <div class="hotel-card-info">
+            <p>{{hotel.info}}</p>
+          </div>
+                </div>
+              </div>
+    </ng-container>
+  </div>
+</section>

@@ -1,0 +1,31 @@
+
+
+
+<header>
+  <div class="profile-link" id="profileLink">
+    <a routerLink="">{{this.textContent[0].header.profileLink}}</a>
+  </div>
+
+<div class="content">
+  <h2>{{this.textContent[0].header.logo}}</h2>
+  <nav>
+    <ul>
+      <li class="scroll-1" id="homeBtn"><a routerLink="">{{this.textContent[0].header.home}}</a></li>
+      <li class="scroll-2" id="destinationBtn"><a routerLink="">{{this.textContent[0].header.destination}}</a></li>
+      <li class="scroll-3" id="sighnInBtn"><a routerLink="">{{this.textContent[0].header.sighnIn}}</a></li>
+      <li class="scroll-4" id="registrationBtn"><a routerLink="">{{this.textContent[0].header.registration}}</a></li>
+    </ul>
+  </nav>
+</div>
+
+  <div class="mobile-content" id="mobile-menu-button">
+    <i class='bx bx-menu'></i>
+  </div>
+
+  <ul class="language">
+   <li class="language-button geo-btn" id="geoBtn">{{this.textContent[0].header.btnOne}}</li>
+   <li class="language-button eng-btn" id="engBtn">{{this.textContent[0].header.btnTwo}}</li>
+  </ul>
+
+</header>
+

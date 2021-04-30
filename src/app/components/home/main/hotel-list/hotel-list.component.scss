@@ -1,0 +1,74 @@
+@import 'src/app/components/home/home.component.scss';
+
+
+
+section {
+  position: absolute;
+  z-index: 2;
+  @include size(100%, 100%);
+  border-radius: 20px 20px 0 0;
+  display: flex;
+
+  .form {
+    form {
+      padding: .5rem;
+      display: flex;
+      flex-flow: column;
+
+      select, input {
+        margin: 1.5rem;
+        @include size(2rem, 15rem)
+      }
+    }
+  }
+
+  .hotel-list-content {
+    @include size(100%, 100%);
+    overflow-y: scroll;
+    padding: 2rem 1rem;
+    &::-webkit-scrollbar{
+     width: 5px;
+      padding: 2px;
+    }
+    &::-webkit-scrollbar-thumb{
+      background: #474747;
+      border-radius: 2px;
+    }
+
+    .hotel-card {
+      display: flex;
+      margin: 1rem;
+      box-shadow: 0 4px 2px 0 #00000040;
+
+      .hotel-img {
+        @include size(10rem, 13rem);
+        cursor: pointer;
+        transition: transform .3s ease-in-out;
+        &:hover{
+          transform: scale(1.5);
+          transition: transform .3s ease-in-out;
+        }
+        &:active{
+          transform: scale(1);
+          transition: transform .3s ease-in-out;
+        }
+
+      }
+      .hotel-card-content {
+        padding: 0 1rem;
+        width: 35em;
+        .hotel-card-header {
+          display: flex;
+          gap: 1em;
+          margin:0 0 .5rem 0;
+          h4 {
+            width: 10rem;
+          }
+        }
+        .stars{
+        background-color: red;
+        }
+      }
+    }
+  }
+}

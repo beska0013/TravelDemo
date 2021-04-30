@@ -1,0 +1,120 @@
+@import 'src/app/components/home/main/main.component.scss';
+
+
+
+footer{
+  @include  size(10rem,100);
+  @include d-between;
+  position: fixed;
+  bottom: 0;
+  z-index: 10;
+  width: 100%;
+  li{
+    cursor:pointer;
+    background-color:$formColor;
+    transition:background-color .3s ease-in-out,
+    color .3s ease-in-out;
+    &:active{
+      transition:background-color .3s ease-in-out,
+      color .3s ease-in-out;
+      background-color:#000000;
+      color: #ffffff;
+    }
+    & a:active{
+      color: #ffffff;
+      @include transitionThreeMiliSec(color);
+    }
+  }
+  .links{
+    @include  size(100%,4rem);
+    @media screen and (max-width: 768px){
+      width: 2rem;
+    }
+    .bx{
+      padding: 1rem;
+      font-size: 24px;
+
+    }
+    .facebook{
+      box-shadow: -1px 9px 11px 6px #0000008a;
+      animation:link-scroll 1.1s linear;
+      display: flex;
+      justify-content: center;
+    }
+    .twitter{
+      box-shadow: 1px 14px 5px 3px #0000008a;
+      animation:link-scroll .9s linear;
+      display: flex;
+      justify-content: center;
+    }
+    .instagram{
+      box-shadow: -6px 20px 4px 9px #0000008a;
+      animation:link-scroll .7s linear;
+      display: flex;
+      justify-content: center;
+    }
+  }
+  .signature{
+    height: 100%;
+    text-align: center;
+    p{
+      letter-spacing: .3em;
+      font-weight: 400;
+      font-family:$textFont;
+      line-height: 18em;
+      font-size: 0.7rem;
+      @media screen and (max-width: 768px){
+        position: relative;
+        bottom: -33px;
+      }
+    }
+
+  }
+  .btn{
+    height: 100%;
+    display: flex;
+    flex-flow: column-reverse;
+    ul{
+      display: flex;
+      .left{
+        box-shadow: -1px 9px 11px 6px #0000008a;
+        animation: chevron .7s linear;
+      }
+      .right{
+        box-shadow: 17px 0 11px 6px #0000008a;
+        animation: chevron 1.4s linear;
+      }
+      .bx{
+        padding: 1rem;
+        font-size: 36px;
+        @media screen and (max-width: 768px){
+          padding: 0.5rem;
+        }
+      }
+    }
+  }
+}
+
+@keyframes link-scroll{
+  0%{
+    transform: translate(0%, -50em);
+    opacity:0;
+  }
+  100%{
+    transform: translate(0%, 0%);
+    opacity: 1;
+  }
+
+}
+@keyframes chevron{
+  0%{
+    transform: translate(0%, 5em);
+    opacity:0;
+  }
+  100%{
+    transform: translate(0%, 0%);
+    opacity: 1;
+  }
+
+}
+

@@ -1,0 +1,19 @@
+@import '/src/app/app.component.scss';
+
+
+.form {
+  position: absolute;
+  z-index: 6;
+  @include size(100%, 100%);
+  @include d-center;
+  flex-flow: column;
+  opacity: 0;
+  display: none;
+  transition: opacity .3s ease-in-out;
+
+}
+
+.form-show{
+  display: flex;
+  transition: opacity .3s ease-in-out;
+}

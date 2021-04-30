@@ -1,0 +1,15 @@
+<form  id="sighnInForm" name='loginForm'>
+  <h2>Sighn In</h2>
+  <label for="loginName">
+  <input type="text" id="loginName" placeholder="Enter your email..." [(ngModel)]="loginName" name="loginName">
+    <span class="alert" id="loginNameAlert">Wrong User Name</span>
+  </label>
+  <label for="password" id="labelForName">
+    <span id="eye" class="bx bx-hide"></span>
+    <input type="password" id="password" placeholder="Enter your password" [(ngModel)]="loginPassword" name="loginPassword">
+    <span class="alert" id="loginPasswordAlert">or Password</span>
+  </label>
+  <input type="submit" id="submitBtn">
+  <h3>or  Register</h3>
+</form>
+
