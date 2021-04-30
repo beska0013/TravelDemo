@@ -1,0 +1,1765 @@
+{
+  "geohotels":
+  [
+
+
+                {
+                    "id": 0,
+                    "district_name": "Eastern Georgia",
+                    "geo_district_name": "აღმოსავლეთი საქართველო",
+                    "city_name": "Tbilisi",
+                    "geo_city_name": "თბილისი",
+                    "hotel_name": "Biltmore",
+                    "geo_hotel_name": "Biltmore",
+                    "type": "Hotel",
+                    "geo_type": "სასტუმრო",
+                    "address": " lorem ipsum lorem ipsum lorem ipsum",
+                    "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                    "stars": 5,
+                    "number_of_rooms": 15,
+                    "parking": true,
+                    "pool": true,
+                    "spa": true,
+                    "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                    "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                    "image": "/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/biltmore.jpg",
+                    "rooms": {
+                      "standard_room": {
+                        "name": "standard",
+                        "geo_name": "სტანდარტული",
+                        "room_icon": "<i class='bx bxs-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      },
+                      "premium_room": {
+                        "name": "premium",
+                        "geo_name": "პრემიუმი",
+                        "room_icon": " <i class='bx bx-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      }
+                    }
+                },
+                {
+                    "id": 1,
+                   "district_name": "Eastern Georgia",
+                   "geo_district_name": "აღმოსავლეთი საქართველო",
+                   "city_name": "Tbilisi",
+                   "geo_city_name": "თბილისი",
+                    "hotel_name": "Sheraton Metekhi Palace",
+                    "geo_hotel_name": "შერატონ მეტეხი პალასი",
+                    "type": "Hotel",
+                    "geo_type": "სასტუმრო",
+                    "address": " lorem ipsum lorem ipsum lorem ipsum",
+                    "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                    "stars": 4,
+                    "number_of_rooms": 20,
+                    "parking": true,
+                    "pool": true,
+                    "spa": true,
+                    "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                    "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                    "image": "/assets/img/georgiaImages/tbilisi/tbilisi_hotels/shraton_hotel/sheraton.jpg",
+                    "rooms": {
+                      "standard_room": {
+                        "name": "standard",
+                        "geo_name": "სტანდარტული",
+                        "room_icon": "<i class='bx bx-bed' ></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      },
+                      "premium_room": {
+                        "name": "premium",
+                        "geo_name": "პრემიუმი",
+                        "room_icon": " <i class='bx bxs-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      }
+                    }
+                },
+                {
+                    "id": 2,
+                  "district_name": "Eastern Georgia",
+                  "geo_district_name": "აღმოსავლეთი საქართველო",
+                  "city_name": "Tbilisi",
+                  "geo_city_name": "თბილისი",
+                    "hotel_name": "Stamba",
+                    "geo_hotel_name": "სტამბა",
+                    "type": "Hotel",
+                    "geo_type": "სასტუმრო",
+                    "address": " lorem ipsum lorem ipsum lorem ipsum",
+                    "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                    "stars": 5,
+                    "number_of_rooms": 30,
+                    "parking": true,
+                    "pool": true,
+                    "spa": true,
+                    "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                    "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                    "image": "/assets/img/georgiaImages/tbilisi/tbilisi_hotels/stamba_hotel/stamba.jpg",
+                    "rooms": {
+                      "standard_room": {
+                        "name": "standard",
+                        "geo_name": "სტანდარტული",
+                        "room_icon": " <i class='bx bx-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      },
+                      "premium_room": {
+                        "name": "premium",
+                        "geo_name": "პრემიუმი",
+                        "room_icon": " <i class='bx bxs-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      }
+                    }
+                },
+                {
+                    "id": 3,
+                  "district_name": "Eastern Georgia",
+                  "geo_district_name": "აღმოსავლეთი საქართველო",
+                  "city_name": "Tbilisi",
+                  "geo_city_name": "თბილისი",
+                    "hotel_name": "Tbilisi Tower",
+                    "geo_hotel_name": "თბილისი თაუერი",
+                    "type": "Hotel",
+                    "geo_type": "სასტუმრო",
+                    "address": " lorem ipsum lorem ipsum lorem ipsum",
+                    "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                    "stars": 4,
+                    "number_of_rooms": 15,
+                    "parking": true,
+                    "pool": true,
+                    "spa": true,
+                    "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                    "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                    "image": "/assets/img/georgiaImages/tbilisi/tbilisi_hotels/tbilisi_tower_hotel/tbilisi_tower.jpg",
+                    "rooms": {
+                      "standard_room": {
+                        "name": "standard",
+                        "geo_name": "სტანდარტული",
+                        "room_icon": " <i class='bx bx-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      },
+                      "premium_room": {
+                        "name": "premium",
+                        "geo_name": "პრემიუმი",
+                        "room_icon": "<i class='bx bxs-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      }
+                    }
+                },
+                {
+                    "id": 4,
+                  "district_name":"Adjara",
+                  "geo_district_name": "აჭარა",
+                  "city_name": "Batumi",
+                  "geo_city_name": "ბათუმი",
+                    "hotel_name": "Golden Palace",
+                    "geo_hotel_name": "Golden Palace",
+                    "type": "Hotel",
+                    "geo_type": "სასტუმრო",
+                    "address": " lorem ipsum lorem ipsum lorem ipsum",
+                    "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                    "stars": 3,
+                    "number_of_rooms": 9,
+                    "parking": true,
+                    "pool": true,
+                    "spa": false,
+                    "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                    "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                    "image": "/assets/img/georgiaImages/batumi/batumi_hotels/golden-palace-hotel/golden_palace.jpg",
+                    "rooms": {
+                      "standard_room": {
+                        "name": "standard",
+                        "geo_name": "სტანდარტული",
+                        "room_icon": " <i class='bx bx-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      },
+                      "premium_room": {
+                        "name": "premium",
+                        "geo_name": "პრემიუმი",
+                        "room_icon": " <i class='bx bx-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      }
+                    }
+
+                },
+                {
+
+                    "id": 5,
+                  "district_name":"Adjara",
+                  "geo_district_name": "აჭარა",
+                  "city_name": "Batumi",
+                  "geo_city_name": "ბათუმი",
+                    "hotelname": "Intourist",
+                    "geo_hotel_name": "Intourist",
+                    "type": "Hotel",
+                    "geo_type": "სასტუმრო",
+                    "address": " lorem ipsum lorem ipsum lorem ipsum",
+                    "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                    "stars": 4,
+                    "number_of_rooms": 7,
+                    "parking": true,
+                    "pool": true,
+                    "spa": true,
+                    "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                    "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                    "image": "/assets/img/georgiaImages/batumi/batumi_hotels/intourist_hotel/intourist.jpg",
+                    "rooms": {
+                      "standard_room": {
+                        "name": "standard",
+                        "geo_name": "სტანდარტული",
+                        "room_icon": " <i class='bx bx-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      },
+                      "premium_room": {
+                        "name": "premium",
+                        "geo_name": "პრემიუმი",
+                        "room_icon": " <i class='bx bxs-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      }
+                    }
+
+                },
+                {
+
+                    "id": 6,
+                  "district_name":"Adjara",
+                  "geo_district_name": "აჭარა",
+                  "city_name": "Batumi",
+                  "geo_city_name": "ბათუმი",
+                    "hotel_name": "Radisson Blu ",
+                    "geo_hotel_name": "რედისონ ბლუ",
+                    "type": "Hotel",
+                    "geo_type": "სასტუმრო",
+                    "address": " lorem ipsum lorem ipsum lorem ipsum",
+                    "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                    "stars": 5,
+                    "number_of_rooms": 25,
+                    "parking": true,
+                    "pool": true,
+                    "spa": true,
+                    "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                    "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                    "image": "/assets/img/georgiaImages/batumi/batumi_hotels/radisson_blu_hotel/radisson_blu.jpg",
+                    "rooms": {
+                      "standard_room": {
+                        "name": "standard",
+                        "geo_name": "სტანდარტული",
+                        "room_icon": "<i class='bx bx-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      },
+                      "premium_room": {
+                        "name": "premium",
+                        "geo_name": "პრემიუმი",
+                        "room_icon": " <i class='bx bxs-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      }
+                    }
+
+                },
+                {
+                    "id": 7,
+                  "district_name":"Adjara",
+                  "geo_district_name": "აჭარა",
+                  "city_name": "Batumi",
+                  "geo_city_name": "ბათუმი",
+                    "hotel_name": "Sheraton Batumi",
+                    "geo_hotel_name": "შერატონ ბათუმი",
+                    "type": "Hotel",
+                    "geo_type": "სასტუმრო",
+                    "address": " lorem ipsum lorem ipsum lorem ipsum",
+                    "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                    "stars": 4,
+                    "number_of_rooms": 15,
+                    "parking": true,
+                    "pool": true,
+                    "spa": true,
+                    "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                    "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                    "image": "/assets/img/georgiaImages/batumi/batumi_hotels/sheraton_batumi_hotel/sheraton_batumi.jpg",
+                    "rooms": {
+                      "standard_room": {
+                        "name": "standard",
+                        "geo_name": "სტანდარტული",
+                        "room_icon": "<i class='bx bx-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      },
+                      "premium_room": {
+                        "name": "premium",
+                        "geo_name": "პრემიუმი",
+                        "room_icon": " <i class='bx bxs-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      }
+                    }
+
+                },
+                {
+                    "id": 8,
+                  "district_name":"Mtskheta-Mtianeti",
+                  "geo_district_name": "მცხეთა-მთიანეთი",
+                  "city_name": "kazbegi",
+                  "geo_city_name":"ყაზბეგი",
+                    "hotel_name": "Capra",
+                    "geo_hotel_name": "კაპრა",
+                    "type": "Hotel",
+                    "geo_type": "სასტუმრო",
+                    "address": " lorem ipsum lorem ipsum lorem ipsum",
+                    "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                    "stars": 3,
+                    "number_of_rooms": 8,
+                    "parking": true,
+                    "pool": true,
+                    "spa": true,
+                    "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                    "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                    "image": "/assets/img/georgiaImages/kazbegi/kazbegi_hotels/capra_hotel/capra.jpg",
+                    "rooms": {
+                      "standard_room": {
+                        "name": "standard",
+                        "geo_name": "სტანდარტული",
+                        "room_icon": " <i class='bx bxs-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      },
+                      "premium_room": {
+                        "name": "premium",
+                        "geo_name": "პრემიუმი",
+                        "room_icon": " <i class='bx bx-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      }
+                    }
+                },
+                {
+                    "id": 9,
+                  "district_name":"Mtskheta-Mtianeti",
+                  "geo_district_name": "მცხეთა-მთიანეთი",
+                  "city_name": "kazbegi",
+                  "geo_city_name":"ყაზბეგი",
+                    "hotel_name": "Gold Kazbegi",
+                    "geo_hotel_name": "გოლდ ყაზბეგი",
+                    "type": "Hotel",
+                    "geo_type": "სასტუმრო",
+                    "address": " lorem ipsum lorem ipsum lorem ipsum",
+                    "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                    "stars": 4,
+                    "number_of_rooms": 11,
+                    "parking": true,
+                    "pool": true,
+                    "spa": true,
+                    "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                    "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                    "image": "/assets/img/georgiaImages/kazbegi/kazbegi_hotels/gold_kazbegi/gold_kazbegi.jpg",
+                    "rooms": {
+                      "standard_room": {
+                        "name": "standard",
+                        "geo_name": "სტანდარტული",
+                        "room_icon": " <i class='bx bxs-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      },
+                      "premium_room": {
+                        "name": "premium",
+                        "geo_name": "პრემიუმი",
+                        "room_icon": " <i class='bx bx-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      }
+                    }
+                },
+                {
+                    "id": 10,
+                  "district_name":"Mtskheta-Mtianeti",
+                  "geo_district_name": "მცხეთა-მთიანეთი",
+                  "city_name": "kazbegi",
+                  "geo_city_name":"ყაზბეგი",
+                    "hotel_name": "Intourist",
+                    "geo_hotel_name": "ინტურისტი",
+                    "type": "Hotel",
+                    "geo_type": "სასტუმრო",
+                    "address": " lorem ipsum lorem ipsum lorem ipsum",
+                    "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                    "stars": 4,
+                    "number_of_rooms": 9,
+                    "parking": true,
+                    "pool": true,
+                    "spa": true,
+                    "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                    "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                    "image": "/assets/img/georgiaImages/kazbegi/kazbegi_hotels/intourist_hotel/intourist_kazbegi.jpg",
+                    "rooms": {
+                      "standard_room": {
+                        "name": "standard",
+                        "geo_name": "სტანდარტული",
+                        "room_icon": " <i class='bx bxs-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      },
+                      "premium_room": {
+                        "name": "premium",
+                        "geo_name": "პრემიუმი",
+                        "room_icon": " <i class='bx bx-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      }
+                    }
+                },
+                {
+                    "id": 11,
+                  "district_name":"Mtskheta-Mtianeti",
+                  "geo_district_name": "მცხეთა-მთიანეთი",
+                  "city_name": "kazbegi",
+                  "geo_city_name":"ყაზბეგი",
+                    "hotel_name": "Rooms",
+                    "geo_hotel_name": "რუმსი",
+                    "type": "Hotel",
+                    "geo_type": "სასტუმრო",
+                    "address": " lorem ipsum lorem ipsum lorem ipsum",
+                    "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                    "stars": 5,
+                    "number_of_rooms": 15,
+                    "parking": true,
+                    "pool": true,
+                    "spa": true,
+                    "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                    "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                    "image": "/assets/img/georgiaImages/kazbegi/kazbegi_hotels/rooms_kazbegi_hotel/rooms.jpg",
+                    "rooms": {
+                      "standard_room": {
+                        "name": "standard",
+                        "geo_name": "სტანდარტული",
+                        "room_icon": " <i class='bx bxs-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      },
+                      "premium_room": {
+                        "name": "premium",
+                        "geo_name": "პრემიუმი",
+                        "room_icon": " <i class='bx bx-bed'></i>",
+                        "images": [
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                          },
+                          {
+                            "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                          }
+                        ]
+                      }
+                    }
+                },
+                {
+                  "id": 12,
+                  "district_name":"Samtskhe-Javakheti",
+                  "geo_district_name": "სამცხე-ჯავახეთი",
+                  "city_name": "borjomi",
+                  "geo_city_name": "ბორჯომი",
+                  "hotel_name": "Crown",
+                  "geo_hotel_name": "Crown",
+                  "type": "Hotel",
+                  "geo_type": "სასტუმრო",
+                  "address": " lorem ipsum lorem ipsum lorem ipsum",
+                  "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                  "stars": 5,
+                  "number_of_rooms": 15,
+                  "parking": true,
+                  "pool": false,
+                  "spa": false,
+                  "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                  "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                  "image": "/assets/img/georgiaImages/borjomi/borjomi_hotels/crown_hotel/crown.jpg",
+                  "rooms": {
+                    "standard_room": {
+                      "name": "standard",
+                      "geo_name": "სტანდარტული",
+                      "room_icon": "<i class='bx bxs-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    },
+                    "premium_room": {
+                      "name": "premium",
+                      "geo_name": "პრემიუმი",
+                      "room_icon": " <i class='bx bx-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": 13,
+                  "district_name":"Samtskhe-Javakheti",
+                  "geo_district_name": "სამცხე-ჯავახეთი",
+                  "city_name": "borjomi",
+                  "geo_city_name": "ბორჯომი",
+                  "hotel_name": "Milano",
+                  "type": "Hotel",
+                  "geo_type": "სასტუმრო",
+                  "geo_hotel_name": "მილანო",
+                  "address": " lorem ipsum lorem ipsum lorem ipsum",
+                  "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                  "stars": 4,
+                  "number_of_rooms": 14,
+                  "parking": true,
+                  "pool": true,
+                  "spa": true,
+                  "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                  "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                  "image": "/assets/img/georgiaImages/borjomi/borjomi_hotels/milano_hotel/milano.jpg",
+                  "rooms": {
+                    "standard_room": {
+                      "name": "standard",
+                      "geo_name": "სტანდარტული",
+                      "room_icon": " <i class='bx bxs-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    },
+                    "premium_room": {
+                      "name": "premium",
+                      "geo_name": "პრემიუმი",
+                      "room_icon": " <i class='bx bx-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": 14,
+                  "district_name":"Samtskhe-Javakheti",
+                  "geo_district_name": "სამცხე-ჯავახეთი",
+                  "city_name": "borjomi",
+                  "geo_city_name": "ბორჯომი",
+                  "hotel_name": "Old Borjomi",
+                  "type": "Hotel",
+                  "geo_type": "სასტუმრო",
+                  "geo_hotel_name": "ძველი ბორჯომი",
+                  "address": " lorem ipsum lorem ipsum lorem ipsum",
+                  "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                  "stars": 5,
+                  "number_of_rooms": 13,
+                  "parking": true,
+                  "pool": true,
+                  "spa": true,
+                  "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                  "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                  "image": "/assets/img/georgiaImages/borjomi/borjomi_hotels/old_borjomi/old_borjomi.jpg",
+                  "rooms": {
+                    "standard_room": {
+                      "name": "standard",
+                      "geo_name": "სტანდარტული",
+                      "room_icon": " <i class='bx bxs-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    },
+                    "premium_room": {
+                      "name": "premium",
+                      "geo_name": "პრემიუმი",
+                      "room_icon": " <i class='bx bx-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": 15,
+                  "district_name":"Samtskhe-Javakheti",
+                  "geo_district_name": "სამცხე-ჯავახეთი",
+                  "city_name": "borjomi",
+                  "geo_city_name": "ბორჯომი",
+                  "hotel_name": "Victoria",
+                  "type": "Hotel",
+                  "geo_type": "სასტუმრო",
+                  "geo_hotel_name": "ვიქტორია",
+                  "address": " lorem ipsum lorem ipsum lorem ipsum",
+                  "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                  "stars": 5,
+                  "number_of_rooms": 12,
+                  "parking": true,
+                  "pool": true,
+                  "spa": true,
+                  "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                  "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                  "image": "/assets/img/georgiaImages/borjomi/borjomi_hotels/victoria_hotel/victoria.jpg",
+                  "rooms": {
+                    "standard_room": {
+                      "name": "standard",
+                      "geo_name": "სტანდარტული",
+                      "room_icon": " <i class='bx bxs-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    },
+                    "premium_room": {
+                      "name": "premium",
+                      "geo_name": "პრემიუმი",
+                      "room_icon": " <i class='bx bx-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": 16,
+                  "district_name": "Svaneti",
+                  "geo_district_name": "სვანეთი",
+                  "city_name": "Mestia",
+                  "geo_city_name": "მესტია",
+                  "hotel_name": "Old House",
+                  "geo_hotel_name": "ძველი სახლი",
+                  "type": "Hotel",
+                  "geo_type": "სასტუმრო",
+                  "address": " lorem ipsum lorem ipsum lorem ipsum",
+                  "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                  "stars": 3,
+                  "number_of_rooms": 7,
+                  "parking": true,
+                  "pool": false,
+                  "spa": true,
+                  "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                  "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                  "image": "/assets/img/georgiaImages/svaneti/svaneti_hotels/old_house/old_house.jpg",
+                  "rooms": {
+                    "standard_room": {
+                      "name": "standard",
+                      "geo_name": "სტანდარტული",
+                      "room_icon": " <i class='bx bxs-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    },
+                    "premium_room": {
+                      "name": "premium",
+                      "geo_name": "პრემიუმი",
+                      "room_icon": " <i class='bx bx-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": 17,
+                  "district_name": "Svaneti",
+                  "geo_district_name": "სვანეთი",
+                  "city_name": "Mestia",
+                  "geo_city_name": "მესტია",
+                  "hotel_name": "Svaneti",
+                  "geo_hotel_name": "სვანეთი",
+                  "type": "Hotel",
+                  "geo_type": "სასტუმრო",
+                  "address": " lorem ipsum lorem ipsum lorem ipsum",
+                  "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                  "stars": 5,
+                  "number_of_rooms": 15,
+                  "parking": true,
+                  "pool": true,
+                  "spa": true,
+                  "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                  "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                  "image": "/assets/img/georgiaImages/svaneti/svaneti_hotels/svaneti_hotel/svaneti.jpg",
+                  "rooms": {
+                    "standard_room": {
+                      "name": "standard",
+                      "geo_name": "სტანდარტული",
+                      "room_icon": " <i class='bx bxs-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    },
+                    "premium_room": {
+                      "name": "premium",
+                      "geo_name": "პრემიუმი",
+                      "room_icon": " <i class='bx bx-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": 18,
+                  "district_name": "Svaneti",
+                  "geo_district_name": "სვანეთი",
+                  "city_name": "Mestia",
+                  "geo_city_name": "მესტია",
+                  "hotel_name": "Tetnuldi",
+                  "geo_hotel_name": "თეთნულდი",
+                  "type": "Hotel",
+                  "geo_type": "სასტუმრო",
+                  "address": " lorem ipsum lorem ipsum lorem ipsum",
+                  "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                  "stars": 4,
+                  "number_of_rooms": 5,
+                  "parking": true,
+                  "pool": false,
+                  "spa": true,
+                  "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                  "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                  "image": "/assets/img/georgiaImages/svaneti/svaneti_hotels/tetnuldi_hotel/tetnuldi.jpg",
+                  "rooms": {
+                    "standard_room": {
+                      "name": "standard",
+                      "geo_name": "სტანდარტული",
+                      "room_icon": "<i class='bx bxs-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    },
+                    "premium_room": {
+                      "name": "premium",
+                      "geo_name": "პრემიუმი",
+                      "room_icon": " <i class='bx bx-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": 19,
+                  "district_name": "Svaneti",
+                  "geo_district_name": "სვანეთი",
+                  "city_name": "Mestia",
+                  "geo_city_name": "მესტია",
+                  "hotel_name": "Ushguli",
+                  "geo_hotel_name": "უშგული",
+                  "type": "Hotel",
+                  "geo_type": "სასტუმრო",
+                  "address": " lorem ipsum lorem ipsum lorem ipsum",
+                  "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                  "stars": 5,
+                  "number_of_rooms": 15,
+                  "parking": true,
+                  "pool": true,
+                  "spa": true,
+                  "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                  "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                  "image": "/assets/img/georgiaImages/svaneti/svaneti_hotels/ushguli_hotel/ushguli_hotel.jpg",
+                  "rooms": {
+                    "standard_room": {
+                      "name": "standard",
+                      "geo_name": "სტანდარტული",
+                      "room_icon": " <i class='bx bxs-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    },
+                    "premium_room": {
+                      "name": "premium",
+                      "geo_name": "პრემიუმი",
+                      "room_icon": " <i class='bx bx-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": 20,
+                  "district_name": "Racha",
+                  "geo_district_name": "რაჭა",
+                  "city_name": "Oni",
+                  "geo_city_name":"ონი",
+                  "hotel_name": "Cape Racha",
+                  "geo_hotel_name": "ქეიფ რაჭა",
+                  "type": "Hotel",
+                  "geo_type": "სასტუმრო",
+                  "address": " lorem ipsum lorem ipsum lorem ipsum",
+                  "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                  "stars": 5,
+                  "number_of_rooms": 15,
+                  "parking": true,
+                  "pool": true,
+                  "spa": true,
+                  "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                  "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                  "image": "/assets/img/georgiaImages/racha/racha_hotels/cape_racha_hotel/cape_racha.jpg",
+                  "rooms": {
+                    "standard_room": {
+                      "name": "standard",
+                      "geo_name": "სტანდარტული",
+                      "room_icon": " <i class='bx bxs-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    },
+                    "premium_room": {
+                      "name": "premium",
+                      "geo_name": "პრემიუმი",
+                      "room_icon": " <i class='bx bx-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": 21,
+                  "district_name": "Racha",
+                  "geo_district_name": "რაჭა",
+                  "city_name": "Oni",
+                  "geo_city_name":"ონი",
+                  "hotel_name": "Shaori",
+                  "geo_hotel_name": "შაორი",
+                  "type": "Hotel",
+                  "geo_type": "სასტუმრო",
+                  "address": " lorem ipsum lorem ipsum lorem ipsum",
+                  "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                  "stars": 5,
+                  "number_of_rooms": 8,
+                  "parking": true,
+                  "pool": false,
+                  "spa": true,
+                  "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                  "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                  "image": "/assets/img/georgiaImages/racha/racha_hotels/shaori_hotel/shaori.jpg",
+                  "rooms": {
+                    "standard_room": {
+                      "name": "standard",
+                      "geo_name": "სტანდარტული",
+                      "room_icon": " <i class='bx bxs-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    },
+                    "premium_room": {
+                      "name": "premium",
+                      "geo_name": "პრემიუმი",
+                      "room_icon": " <i class='bx bx-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": 22,
+                  "district_name": "Racha",
+                  "geo_district_name": "რაჭა",
+                  "city_name": "Oni",
+                  "geo_city_name":"ონი",
+                  "hotel_name": "Tsesi",
+                  "geo_hotel_name": "წესი",
+                  "type": "Hotel",
+                  "geo_type": "სასტუმრო",
+                  "address": " lorem ipsum lorem ipsum lorem ipsum",
+                  "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                  "stars": 5,
+                  "number_of_rooms": 15,
+                  "parking": true,
+                  "pool": true,
+                  "spa": false,
+                  "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                  "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                  "image": "/assets/img/georgiaImages/racha/racha_hotels/tsesi_hotel/tsesi.jpg",
+                  "rooms": {
+                    "standard_room": {
+                      "name": "standard",
+                      "geo_name": "სტანდარტული",
+                      "room_icon": " <i class='bx bxs-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    },
+                    "premium_room": {
+                      "name": "premium",
+                      "geo_name": "პრემიუმი",
+                      "room_icon": " `<i class='bx bx-bed'></i>`",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": 23,
+                  "district_name": "Racha",
+                  "geo_district_name": "რაჭა",
+                  "city_name": "Oni",
+                  "geo_city_name":"ონი",
+                  "hotel_name": "Tsibena",
+                  "geo_hotel_name": "წიბენა",
+                  "type": "Hotel",
+                  "geo_type": "სასტუმრო",
+                  "address": " lorem ipsum lorem ipsum lorem ipsum",
+                  "geo_address": "ლორემ იპსუმ ლორემ იპსუმ ლორემ იპსუმ",
+                  "stars": 5,
+                  "number_of_rooms": 8,
+                  "parking": true,
+                  "pool": false,
+                  "spa": true,
+                  "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita  harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?,Accusantium ad aliquam assumenda consectetur consequuntur cupiditate ducimus expedita harum hic inventore labore laboriosam magni minus nesciunt odio sed soluta voluptate, voluptatibus?",
+                  "geo_info": "ლორემ იპსუმ დოლორ სით ამით, კონსექტეტურ ადიპისიცინგ ელით.აკუსანტიუმ ად ალიქუამ ასუმენდა კონსეკტეტურ კონსეკუუნტურ დუციმის ექლპედია ჰარუმჰიქ ინვენტორე ლაბორე ლაბორიოსამ მოგნი მინუს ნეშნთ ოდიო სედ სოლუტა ვოლუპტატე,ვოლუპტატიბუს?",
+                  "image": "/assets/img/georgiaImages/racha/racha_hotels/tsibena/tsibena.jpg",
+                  "rooms": {
+                    "standard_room": {
+                      "name": "standard",
+                      "geo_name": "სტანდარტული",
+                      "room_icon": " <i class='bx bxs-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    },
+                    "premium_room": {
+                      "name": "premium",
+                      "geo_name": "პრემიუმი",
+                      "room_icon": " <i class='bx bx-bed'></i>",
+                      "images": [
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_1.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_2.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_3.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_4.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_5.jpg"
+                        },
+                        {
+                          "image": "src/assets/img/georgiaImages/tbilisi/tbilisi_hotels/bitmore_hotel/rooms/image_6.jpg"
+                        }
+                      ]
+                    }
+                  }
+                }
+   ]
+}
